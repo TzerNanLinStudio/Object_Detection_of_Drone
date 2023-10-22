@@ -1,0 +1,5 @@
+train: C:/Users/goodc/OneDrive/Desktop/ComputerVision_DeepLearning/Object_Detection_of_Drone/YOLOv5/training/train.txt
+val: C:/Users/goodc/OneDrive/Desktop/ComputerVision_DeepLearning/Object_Detection_of_Drone/YOLOv5/training/val.txt
+
+nc: 1
+names: ["UAV"]
