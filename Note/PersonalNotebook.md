@@ -1,14 +1,16 @@
 # 1. Dataset
 
-Online Resource 1 : https://www.runoob.com/markdown/md-tutorial.html
+Download from Kaggle. Please refer to the following link: https://www.kaggle.com/datasets/muki2003/yolo-drone-detection-dataset.
 
-# 2. Machine Learning
+# 2. YOLO
 
-Online Resource 1 : https://www.bilibili.com/video/BV16Z4y1i7vv?p=22
+Install from Github. Please refer to the following link: https://github.com/ultralytics/yolov5.
 
-Online Resource 2 : https://www.youtube.com/playlist?list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J
+```
+git clone https://github.com/ultralytics/yolov5.git
+```
 
-# 3. Machine Learning Environment Setup
+# 3. Environment Setup
 
 ## 3.1. Downloading Python
 
