@@ -1,5 +1,7 @@
 # Image Classification of Animal Species
 
+Revising!!!
+
 # 1. Introduction
 
 This project was a coursework for my course credit and was completed during my master's degree in Advanced Computer Science at Newcastle University. The main content of the project is about image classification using machine learning methods. 
