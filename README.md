@@ -8,6 +8,8 @@ Coursework Specification: The CIFARTile dataset is an extension to the CIFAR10 d
 
 https://github.com/ultralytics/yolov5
 
+https://docs.ultralytics.com
+
 ![Image Error](./Image/image_01.png)
 
 # 2. Solution
