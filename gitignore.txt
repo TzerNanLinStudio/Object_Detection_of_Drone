@@ -1,0 +1,3 @@
+# Ignore the build output and intermediate files directory used by Visual Studio
+Dataset/
+cnn_venv/
