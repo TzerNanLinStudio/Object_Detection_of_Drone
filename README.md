@@ -1,8 +1,8 @@
 # Image Classification of Animal Species
 
-# 1. Introduction
-
 **The project is still in progress and the README file will update later.**
+
+# 1. Introduction
 
 The following picture is one data in the dataset.
 
